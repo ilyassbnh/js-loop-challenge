@@ -26,9 +26,20 @@
 // let mot = "frontend"
 // console.log(mot.length)
 //-----------challenge 6 --------------
-let table =["1","2","3","4","5"]
-let sum = ""
-for (let i =0;i<table.length;i++ ){
-    console.log("le nombre "+table[i]+ " multiplie par 2 est: "+ table[i]*2)
-}
-
+// let table =["1","2","3","4","5"]
+// let sum = ""
+// for (let i =0;i<table.length;i++ ){
+//     console.log("le nombre "+table[i]+ " multiplie par 2 est: "+ table[i]*2)
+// }
+// -----------challenge 7 --------------
+// let dev =["js","react","html","css"]
+// for(let i = 0 ; i < dev.length; i++){
+// console.log(dev[i].toUpperCase())
+// }
+// -----------challenge 8 --------------
+// for ( let i=1; i<=15;i++){
+//     if(i%2 === 1){
+//         console.log(i)
+//     }
+// }
+// -----------challenge 9 --------------
