@@ -43,3 +43,17 @@
 //     }
 // }
 // -----------challenge 9 --------------
+// let arr = ["chat","chien","rat","poisson","lion"]
+// let count = 0
+// for(let i = 0 ; i<arr.length;i++){
+//     count ++
+// }console.log(count);
+// -----------challenge 10 --------------
+// let mot = "Hello"
+// let times = 5
+// for (let i=0 ; i<times ; i++){
+//     console.log(mot);
+// }
+// -----------challenge 11 --------------
+
+
