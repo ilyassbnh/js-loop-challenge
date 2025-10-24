@@ -66,15 +66,38 @@
 //   return sum
 // 
 
+// ----------- minimum challenge  --------------
 // 
-let arr = [83, 0, -12, 95]
-let min = arr[0]
-for (let i = 0; i < arr.length; i++) {
+// let arr = [83, 0, -12, 95]
+// let min = arr[0]
+// for (let i = 0; i < arr.length; i++) {
 
-    if (min > arr[i]) {
-        min = arr[i]
-    }
-} console.log(min);
+//     if (min > arr[i]) {
+//         min = arr[i]
+//     }
+// } console.log(min);
+// ----------- boolean count challenge  --------------
+// let sheep =[true,  true,  true,  false,
+//   true,  true,  true,  true ,
+//   true,  false, true,  false,
+//   true,  false, false, true ,
+//   true,  true,  true,  true ,
+//   false, false, true,  true]
+
+
+//     let num = 0
+//     for (let i = 0 ; i < sheep.length ; i++){
+//     if(sheep[i] == true){
+//         num ++
+//     }
+//   }console.log(num);
+
+// ----------- erase challenge  --------------
+let num = 24352
+let a = ""
+a = num.toString().split("")
+console.log(a.reverse());
+
 
 
 
