@@ -92,13 +92,15 @@
 //     }
 //   }console.log(num);
 
-// ----------- erase challenge  --------------
-let num = 24352
-let a = ""
-a = num.toString().split("")
-console.log(a.reverse());
+// ----------- number to array challenge  --------------
 
+// let n = 937
+// function digit(n) {
+//     let a = ""
+//     a = Array.from(String(n),Number).reverse()
 
+//     return a
+// }
 
-
+// console.log(digit(n));
 
